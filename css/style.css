@@ -751,6 +751,11 @@ a:active {
 @media (max-width: 575px){
     #contact .social-icon-f{
             text-align: center;
+    }
+
+    #about {
+      background-color: #E8E8E8;
+      background-image: none;
     }    
 }
 
