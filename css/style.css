@@ -27,7 +27,7 @@ h6 {
 }
 
 h1 {
-    font-size: 6rem;
+    font-size: 5.5rem;
     line-height: 5.5rem;
 }
 
@@ -200,7 +200,7 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #343a40 !important;
   }
 
   .text-primary {
